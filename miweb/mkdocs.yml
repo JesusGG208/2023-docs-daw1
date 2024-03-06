@@ -1,5 +1,7 @@
-site_name: My Docs
-theme: windmill-dark
+site_name: El Vandalillo
+site_url: https://jesusgg208.github.io/2023-docs-daw1/
+theme: 
+  name: windmill-dark
 
 nav: 
   - Home: index.md
