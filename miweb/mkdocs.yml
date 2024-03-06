@@ -4,5 +4,3 @@ nav:
   - Home: index.md
   - Blog: blog.md
   - Videojuegos: videojuegos.md 
-
-theme: windmill-dark
