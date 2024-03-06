@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+![FotoCambiante](https://picsum.photos/304/304)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
