@@ -1,4 +1,5 @@
 site_name: My Docs
+theme: windmill-dark
 
 nav: 
   - Home: index.md
